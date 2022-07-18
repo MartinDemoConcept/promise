@@ -1,0 +1,23 @@
+{
+  "name": "promise-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "app": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartinDemoConcept/promise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MartinDemoConcept/promise/issues"
+  },
+  "homepage": "https://github.com/MartinDemoConcept/promise#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
