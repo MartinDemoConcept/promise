@@ -6,4 +6,5 @@ new Promise((resolve, reject) => {
     resolve();
 })
 
---> 用new Promise既原因就係要可以return 番d 野出黎/比.then() 繼續proceed
+--> 用new Promise既原因就係要包裝！！
+    -> 可以return 番d 野出黎/比.then() 繼續proceed
